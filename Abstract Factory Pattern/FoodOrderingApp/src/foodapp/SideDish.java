@@ -1,5 +1,5 @@
 package foodapp;
 
-public class SideDish {
+interface SideDish {
     void serve();
 }
